@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
-import 'package:native_ads_flutter/native_ads.dart';
-import 'dart:async';
 import '../Helpers/ad_helper.dart';
 import '../activities/recycler_activity.dart';
 
